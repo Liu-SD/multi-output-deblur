@@ -39,7 +39,7 @@ This part of code is cloned and modified from https://github.com/swz30/Restormer
 #### Install
 
 ```
-cd NAFNet-main/
+cd Restormer-main/
 python setup.py develop --no_cuda_ext
 ```
 
